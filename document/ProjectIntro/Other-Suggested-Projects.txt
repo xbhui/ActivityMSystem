@@ -1,0 +1,9 @@
+Suggested Projects:
+
+1. University Management system
+2. Banking System
+3. Car Rental tracking system
+4. Logistics
+5. eCommerce (Shopping) application
+6. Restaurant Management 
+etc.
